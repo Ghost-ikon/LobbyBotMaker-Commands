@@ -1,7 +1,6 @@
 # SarinBot-Commands
 All the current commands of SarinBot
 
-# Flame Commands
 ### A Fortnite Lobby Bot Network
 
 ## Getting Started
@@ -9,19 +8,19 @@ Just send `-start` to start a bot!
 
 ## Commands
 
-#### :link: - You must have a bot running in order to use this command
-#### :crown: - Bot must be party leader
+#### :link: - You need a bot running to use this commands
 
 ### Cosmetic Commands
 
-`skin <name/id>` - Set your bot's outfit. :link:  
+`skin <name/id>` - Set your bot's outfit.   
 
-`backpack <name/id/none>` - Set your bot's backpack. :link:  
+`backpack <name/id/none>` - Set your bot's backpack.   
 
-`pickaxe <name/id>` - Set your bot's pickaxe. :link:  
+`pickaxe <name/id>` - Set your bot's pickaxe.  
 
-`emote <name/id>` - Set your bot's emote. :link:
-`level <number>` - Set your bot's level. :link:  
+`emote <name/id>` - Set your bot's emote. 
+
+`level <number>` - Set your bot's level.   
 
 ### Party Commands
 
@@ -29,28 +28,28 @@ Just send `-start` to start a bot!
 
 `hide` - Hide all party members. :link: :crown:  
 
-`unhide` - Unhide all party members. :link: :crown:  
+`show` - Unhide all party members. :link: :crown:  
 
 `sitout` - Make your bot look like it is in the sitting out state. :link:  
 
 `sitin` - Remove your bot from the sitting out state. :link:  
 
-`ready` - Make your bot ready up. **NOTE: The bot __cannot__ go in a game.** :link:  
-`unready` - Make your bot unready. :link:  
+`ready` - Make your bot ready up. 
 
-`leave` - Leave the party. :link: 
+`unready` - Make your bot unready.  
+
+`leave` - Leave the party.  
 
 ### Friends
-`add <username>` - Send a friend request to someone. :link:  
-`remove <username>` - Remove someone from your bot's friend list. :link:  
+`add <username>` - Send a friend request to someone.   
 
 ### Client Commands
-`restart` - Restart your bot. :link:  
+`restart` - Restart your bot.  
 
-`stop` - Stop your bot. :link:
+`stop` - Stop your bot. 
 
 ### General Commands
 
 `-start` - Start a bot.  
 
-`-kill` - Stop your bot. :link:
+`-kill` - Stop your bot. 
