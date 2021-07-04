@@ -24,13 +24,13 @@ Just send `-start` to start a bot!
 
 ### Party Commands
 
-`promote <username>` - Promote someone in the bot's party. :link: :crown:  
+`promote <username>` - Promote someone in the bot's party.   
 
-`hide` - Hide all party members. :link: :crown:  
+`hide` - Hide all party members.  
 
-`show` - Unhide all party members. :link: :crown:  
+`show` - Unhide all party members.  
 
-`sitout` - Make your bot look like it is in the sitting out state. :link:  
+`sitout` - Make your bot look like it is in the sitting out state.  
 
 `sitin` - Remove your bot from the sitting out state. :link:  
 
