@@ -32,7 +32,7 @@ Just send `-start` to start a bot!
 
 `sitout` - Make your bot look like it is in the sitting out state.  
 
-`sitin` - Remove your bot from the sitting out state. :link:  
+`sitin` - Remove your bot from the sitting out state.  
 
 `ready` - Make your bot ready up. 
 
