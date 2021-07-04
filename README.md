@@ -40,6 +40,14 @@ Just send `-start` to start a bot!
 
 `leave` - Leave the party.  
 
+`platform_xbox` - Change the bot platform to xbox.
+
+`platform_playstation` - Change the bot platform to ps4.
+
+`platform_mobile` - Change the bot platform to mobile.
+
+`platform_pc` - Change the bot platform to pc.
+
 ### Friends
 `add <username>` - Send a friend request to someone.   
 
