@@ -1,4 +1,4 @@
-# SarinBot-Commands
+# LobbyBotMaker-Commands
 All the current commands of SarinBot
 
 ### A Fortnite Lobby Bot Network
