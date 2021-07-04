@@ -8,7 +8,7 @@ Just send `-start` to start a bot!
 
 ## Commands
 
-#### :link: - You need a bot running to use this commands
+#### ❗ - You need a bot running to use this commands
 
 ### Cosmetic Commands
 
