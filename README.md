@@ -48,6 +48,8 @@ Just send `-start` to start a bot!
 
 `platform_pc` - Change the bot platform to pc.
 
+`say` - Send e message to the party chat.
+
 ### Friends
 `add <username>` - Send a friend request to someone.   
 
