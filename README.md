@@ -50,13 +50,15 @@ Just send `-start` to start a bot!
 
 `say` - Send e message to the party chat.
 
+`style` - Change the bot current cosmetic style.
+
 ### Friends
 `add <username>` - Send a friend request to someone.   
 
 ### Client Commands
 `restart` - Restart your bot.  
 
-`stop` - Stop your bot. 
+`none` - skin/emote/backpack Stop your bot. 
 
 ### General Commands
 
