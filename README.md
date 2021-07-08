@@ -1,5 +1,5 @@
 # LobbyBotMaker-Commands
-All the current commands of SarinBot
+All the current commands of LobbyBotMaker
 
 ### A Fortnite Lobby Bot Network
 
