@@ -4,7 +4,7 @@ All the current commands of LobbyBotMaker
 ### A Fortnite Lobby Bot Network
 
 ## Getting Started
-Just send `-start` to start a bot!
+Just send `-createbot` to start a bot!
 
 ## Commands
 
@@ -62,6 +62,6 @@ Just send `-start` to start a bot!
 
 ### General Commands
 
-`-start` - Start a bot.  
+`-createbot` - Start a bot.  
 
-`-kill` - Stop your bot. 
+`-stop` - Stop your bot. 
