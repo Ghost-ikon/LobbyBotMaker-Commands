@@ -52,6 +52,10 @@ Just send `-createbot` to start a bot!
 
 `style` - Change the bot current cosmetic style.
 
+`join` - Join in a party by user id.
+
+`privacy` - Changes the party privacy, private/friends/public.
+
 ### Friends
 `add <username>` - Send a friend request to someone.   
 
